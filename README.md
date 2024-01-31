@@ -55,6 +55,28 @@ In order to achieve the tabulated table, we need to use Excel Feature What-If An
 
 ![image](https://github.com/Lawrence-le/Optimizing-Supply-Chain-Strategies/assets/151991077/29b9212f-6015-4c1c-8bd0-1b14345e9e65)
 
+# Conclusion:
+
+From the colour coded table, red represents the lowest profit and green represents the highest profit.  
+In order to achieve the optimized order to achieve profitability, we need to ensure that order has to be lower than demand for minimal risk.
+
+## The optimization of supply chain strategies for Tech Haven, as outlined in the scenario, offers several potential benefits:
+
+Cost Efficiency: By optimizing the ordering strategy based on quantity, Tech Haven can minimize the unit cost of each smartphone. This cost efficiency becomes particularly significant as the order quantity increases, allowing the company to maximize profit margins.
+
+Inventory Management: Efficient ordering strategies help Tech Haven manage its inventory effectively. By aligning orders with anticipated demand and adjusting unit costs accordingly, the company can avoid overstocking or understocking issues.
+
+Competitive Pricing: The ability to offer smartphones at competitive prices enhances Tech Haven's competitiveness in the market. Lower unit costs allow the company to set competitive retail prices, attracting more customers and potentially increasing market share.
+
+Adaptability to Market Changes: Considering the fast-paced nature of the technology industry, Tech Haven's ability to adjust its ordering strategy based on market dynamics and new product releases ensures adaptability. This flexibility helps in mitigating risks associated with changes in consumer preferences and technological advancements.
+
+Minimizing Losses on Obsolete Inventory: The strategy of reducing the price to $500 for unsold smartphones when a new model is released helps minimize losses on obsolete inventory. This approach aligns with market realities, allowing Tech Haven to clear out older stock efficiently.
+
+Customer Satisfaction: Offering smartphones at competitive prices and promptly introducing discounts for older models can enhance customer satisfaction. Customers may be more inclined to make purchases from Tech Haven, knowing that the company is responsive to market trends and provides value for money.
+
+## Summary
+The optimization of supply chain strategies benefits Tech Haven by improving cost efficiency, inventory management, market competitiveness, adaptability to industry changes, and overall customer satisfaction.
+
 
 
 
