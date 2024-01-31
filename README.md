@@ -1,5 +1,5 @@
 # Optimizing-Supply-Chain-Strategies
-Optimizing Supply Chain Strategies for Tech Haven: Navigating Unit Costs and Demand Uncertainties in the Smartphone Retail Landscape
+## Optimizing Supply Chain Strategies for Tech Haven: Navigating Unit Costs and Demand Uncertainties in the Smartphone Retail Landscape
 
 ![image](https://github.com/Lawrence-le/Optimizing-Supply-Chain-Strategies/assets/151991077/62b649a4-52e6-48e4-a520-226685b09553)
 
