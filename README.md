@@ -1,7 +1,7 @@
 # Optimizing-Supply-Chain-Strategies
 ## Optimizing Supply Chain Strategies for Tech Haven: Navigating Unit Costs and Demand Uncertainties in the Smartphone Retail Landscape
 
-![image](https://github.com/Lawrence-le/Optimizing-Supply-Chain-Strategies/assets/151991077/62b649a4-52e6-48e4-a520-226685b09553)
+![image](https://github.com/Lawrence-le/Optimizing-Supply-Chain-Strategies/assets/151991077/29b9212f-6015-4c1c-8bd0-1b14345e9e65)
 
 # Background
 Tech Haven, a leading technology retailer with numerous locations across the nation, faces the challenge of efficiently ordering the latest gadgets and distributing them to its individual stores. 
